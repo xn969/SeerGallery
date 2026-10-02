@@ -1,0 +1,14 @@
+.venv/
+analysis/
+output/
+dist/
+build/
+__pycache__/
+*.py[cod]
+*.spec
+*.zip
+ui-*.png
+smoke-error.txt
+release-tools/
+验证报告.md
+其他图片检查报告.md
